@@ -1,0 +1,15 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "simple task",
+  "main": "service.js",
+  "scripts": {
+    "start":"nodemon service.js"
+  },
+  "author": "Ravisingh Chauhan",
+  "license": "MIT",
+  "dependencies": {
+    "expressjs": "^1.0.1",
+    "nodemon": "^2.0.22"
+  }
+}
